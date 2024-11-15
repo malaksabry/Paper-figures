@@ -1,4 +1,4 @@
-Case,Bif angle,L_MPA,L_LPA,L_RPA,Curvature_MPA,Curv_LPA,Curv_RPA,max_MPA_D,mean_MPA_D,max_LPA_D,mean_LPA_D,max_RPA_D,mean_RPA_D,Shape score,mPAP,t_vortex_test
+Case,Bifurcation angle,L_MPA,L_LPA,L_RPA,Curv_MPA,Curv_LPA,Curv_RPA,max_MPA_D,mean_MPA_D,max_LPA_D,mean_LPA_D,max_RPA_D,mean_RPA_D,Shape score,mPAP,t_vortex_test
 P17,84.92,15.13,23.98,29.13,0.07,0.04,0.04,21.77,20.88,21.77,19.72,21.77,18.67,133.57,1,0.08
 P8,66.34,21.28,36.71,34.47,0.04,0.04,0.03,23.29,23.29,23.29,14.92,23.29,15.38,162.33,2,0.17
 P15,71.65,40.2,28.33,30.12,0.03,0.05,0.03,28.99,28.99,28.99,17.96,28.99,19.95,185.63,2,0.2
