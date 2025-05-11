@@ -1,7 +1,7 @@
-Normalized Compliance,Normalized t_vortex,mPAP,Normalized flow split,Normalized t_vortex,mPAP,Normalized R_tot,Normalized t_vortex,mPAP,Normalized signal width,Normalized t_vortex,mPAP,Normalized regurgitation,Normalized t_vortex,mPAP,Normalized peak time,Normalized t_vortex,mPAP,Inlet profile,Normalized t_vortex,
-0.066666667,0.35,35,0.227272727,0.31,23,0.126086957,0.33,7,0,0.21,19,0.237867423,0.31,27,0.666666667,0.31,26,0,0.58,27
-0.1,0.31,45,0.340909091,0.33,22,0.334782609,0.31,24,1,0.37,32,0,0.29,28,0.133333333,0.29,27,1,0.63,28
-0.2,0.29,43,0.454545455,0.31,22,0.543478261,0.33,27,0.625,0.31,27,1,0.34,25,1,0.33,28,,,
-0.5,0.33,41,0.604545455,0.33,22,0.756521739,0.35,40,,,,,,,,,,,,
-1,0.35,40,1,0.3,27,0.869565217,0.33,56,,,,,,,,,,,,
-,,,,,,1,0.33,100,,,,,,,,,,,,
+Normalized Compliance,Normalized t_vortex,Normalized flow split,Normalized t_vortex,Normalized R_tot,Normalized t_vortex,Normalized inlet BC metric,Shape 1,Normalized inlet BC metric,Shape 2,Normalized inlet BC metric,Shape 3,Normalized inlet BC metric,Shape 4,Normalized inlet BC metric,Shape 5,Inlet profile,Normalized t_vortex
+0.066666667,0.35,0.227272727,0.31,0.126086957,0.33,0,0,0,0,0,0.1,0,0.017857143,0,0.053571429,0,0.58
+0.1,0.31,0.340909091,0.33,0.334782609,0.31,0.202020202,0.05,0.202020202,0.2,0.202020202,0.2,0.202020202,0.535714286,0.202020202,0.535714286,1,0.63
+0.2,0.29,0.454545455,0.31,0.543478261,0.33,0.45,0.1,0.45,0.571428571,0.45,0.678571429,0.45,0.714285714,0.45,0.767857143,,
+0.5,0.33,0.604545455,0.33,0.756521739,0.35,0.65,0.2,0.65,0.3,0.65,0.6,0.65,0.85,0.65,0.92,,
+1,0.35,1,0.3,0.869565217,0.33,1,0.142857143,1,0.410714286,1,0.464285714,1,0.714285714,1,0.857142857,,
+,,,,1,0.33,,,,,,,,,,,,
